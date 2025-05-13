@@ -1,3 +1,39 @@
 [submodule "mcp-server"]
 	path = mcp-server
 	url = git@github.com:profullstack/mcp-server
+[submodule "api-key-manager"]
+	path = api-key-manager
+	url = git@github.com:profullstack/api-key-manager.git
+[submodule "auth-system"]
+	path = auth-system
+	url = git@github.com:profullstack/auth-system.git
+[submodule "document-converters"]
+	path = document-converters
+	url = git@github.com:profullstack/document-converters.git
+[submodule "invoicer"]
+	path = invoicer
+	url = git@github.com:profullstack/invoicer.git
+[submodule "localizer"]
+	path = localizer
+	url = git@github.com:profullstack/localizer.git
+[submodule "payment-gateway"]
+	path = payment-gateway
+	url = git@github.com:profullstack/payment-gateway.git
+[submodule "spa-router"]
+	path = spa-router
+	url = git@github.com:profullstack/spa-router.git
+[submodule "state-manager"]
+	path = state-manager
+	url = git@github.com:profullstack/state-manager.git
+[submodule "storage-service"]
+	path = storage-service
+	url = git@github.com:profullstack/storage-service.git
+[submodule "transcoder"]
+	path = transcoder
+	url = git@github.com:profullstack/transcoder.git
+[submodule "websocket-client"]
+	path = websocket-client
+	url = git@github.com:profullstack/websocket-client.git
+[submodule "therapy"]
+	path = therapy
+	url = git@github.com:profullstack/therapy.git
