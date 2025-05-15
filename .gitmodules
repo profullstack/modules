@@ -10,9 +10,6 @@
 [submodule "document-converters"]
 	path = document-converters
 	url = git@github.com:profullstack/document-converters.git
-[submodule "invoicer"]
-	path = invoicer
-	url = git@github.com:profullstack/invoicer.git
 [submodule "localizer"]
 	path = localizer
 	url = git@github.com:profullstack/localizer.git
@@ -28,12 +25,9 @@
 [submodule "storage-service"]
 	path = storage-service
 	url = git@github.com:profullstack/storage-service.git
-[submodule "transcoder"]
-	path = transcoder
-	url = git@github.com:profullstack/transcoder.git
 [submodule "websocket-client"]
 	path = websocket-client
 	url = git@github.com:profullstack/websocket-client.git
-[submodule "therapy"]
-	path = therapy
-	url = git@github.com:profullstack/therapy.git
+[submodule "enhanced-router"]
+	path = enhanced-router
+	url = git@github.com:profullstack/enhanced-router.git
